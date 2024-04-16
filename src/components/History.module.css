@@ -1,0 +1,11 @@
+.historyList {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .historyButton {
+    margin-bottom: 10px; /* Adjust the space between buttons as needed */
+    cursor: pointer;
+  }

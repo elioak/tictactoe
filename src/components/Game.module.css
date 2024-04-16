@@ -1,0 +1,6 @@
+.gameContainer {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 20px; /* Adjust the space between the Board and History components as needed */
+  }

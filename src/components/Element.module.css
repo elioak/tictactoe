@@ -1,0 +1,10 @@
+.Box {
+  border: 1px solid black;
+  width: 50px; /* Fixed width */
+  height: 50px; /* Fixed height */
+
+  justify-content: center;
+  align-items: center;
+  font-size: 24px; /* Larger font size for visibility */
+  cursor: pointer; /* Cursor indicates it's clickable */
+}
